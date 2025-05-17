@@ -37,6 +37,6 @@ MediVise is a conversational chatbot that:
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/YOUR_USERNAME/health_advisor_chatbot.git
+git clone https://github.com/Gora92AI/health_advisor_chatbot.git
 cd health_advisor_chatbot
 
